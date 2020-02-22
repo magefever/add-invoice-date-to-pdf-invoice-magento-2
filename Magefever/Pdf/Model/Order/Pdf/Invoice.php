@@ -1,4 +1,13 @@
 <?php
+/**
+ * registration componenent
+ *
+ * @package Magefever_Pdf
+ * @author  support@magefver.com
+ * @version 100.0.0
+ * @license OSL v3.0
+ */
+ 
 namespace Magefever\Pdf\Model\Order\Pdf;
 
 use Magento\Sales\Model\ResourceModel\Order\Invoice\Collection;
